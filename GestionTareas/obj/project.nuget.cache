@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzTv1QdrpEg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pjime\\Desktop\\DAW\\FUNDAMENTOS DE PROGRAMACIÓN\\ActividadesEvaluables\\GestionTareas\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pjime\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\pjime\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\pjime\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\pjime\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.14\\microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

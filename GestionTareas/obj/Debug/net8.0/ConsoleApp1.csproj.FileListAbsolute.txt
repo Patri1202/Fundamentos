@@ -1,0 +1,42 @@
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\guisa\Desktop\Javier\DAW\Daw Patri\Fundamentos\GestionTareas\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\pjime\Desktop\DAW\FUNDAMENTOS DE PROGRAMACIÓN\ActividadesEvaluables\GestionTareas\obj\Debug\net8.0\ref\ConsoleApp1.dll
